@@ -1,4 +1,4 @@
-# synent-task8-webscraper-chooenyi
+# synent-task8-webscraper
 Automated Python Web Scraper using BeautifulSoup &amp; Requests
 # Task 8: Automated Web Scraper (BeautifulSoup & Requests)
 
